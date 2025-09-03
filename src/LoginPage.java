@@ -42,6 +42,7 @@ public class LoginPage extends JFrame implements ActionListener {
         add(labelMessage);
 
         setVisible(true);
+        setVisible(false);
     }
 
     @Override
